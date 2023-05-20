@@ -1,4 +1,4 @@
-# Project README
+# CYBOT - A Cybersecurity CHATBOT
 
 ## Requirements
 
@@ -33,4 +33,3 @@ python index_server.py
 2. Start the client application using the following command:
 npm start
 
-Make sure to replace `<filename>` with the actual name of the Python file you wa
