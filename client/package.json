@@ -1,0 +1,37 @@
+{
+  "name": "cyber-security-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@chatui/core": "1.0.2",
+    "aws-config": "1.4.0",
+    "aws-sdk": "2.1343.0",
+    "custom-error": "0.2.1",
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2",
+    "lodash": "^4.17.21",
+    "openai": "3.2.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "react-spinners": "^0.13.8",
+    "react-uploader": "3.13.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

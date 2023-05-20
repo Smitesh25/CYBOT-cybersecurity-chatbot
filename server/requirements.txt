@@ -1,0 +1,9 @@
+ssl
+flask
+cleantext
+flask_cors
+spacy
+nltk
+nameparser
+llama-index
+Werkzeug
