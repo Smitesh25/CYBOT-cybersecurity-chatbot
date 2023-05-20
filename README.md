@@ -48,7 +48,7 @@ npm start
 }
 '
 3. curl --location 'localhost:5601/uploadFile' \
---form 'file=@"/Users/shadape.int/Downloads/No Show SOP.pdf"'
+--form 'filename.pdf"'
 4. curl --location --request POST 'localhost:5601/removeFile'
 
 
